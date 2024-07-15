@@ -1,0 +1,116 @@
+body {
+    width:710px;
+    margin:50px auto 0 auto;
+    font-family:sans-serif;
+}
+    
+h1 {
+    margin: 0 0 36px 0;
+    color: #999;
+    font: normal normal 5em Baskerville, Palatino, "Book Antiqua", serif;
+}
+    
+p {
+    font-size:14px;
+}
+    
+.links {
+    padding: 8px 16px;
+    background: #444;
+    color: white;
+    font-weight: bold;
+    width: 364px;
+    margin-bottom: 0;
+    position:absolute;
+    top:270;
+}
+    
+.links a {
+    color:#C9E2B1;
+    font-family: monospace;
+    text-decoration:none;
+    margin-left:20px;
+    -webkit-transition: color 0.2s linear;
+    -moz-transition: color 0.2s linear;
+    transition: color 0.2s linear;
+}
+    
+.links a:hover {
+    color:white;
+}
+    
+.left {
+    float:left;
+}
+    
+.right {
+    float:right;
+}
+    
+.top.right .a{
+    background-image: url('https://placebear.com/cache/145-300.jpg');
+    width:145px;
+    height:300px;
+    float:left;
+    margin-right:5px;
+}
+    
+.top.right .b{
+    background-image: url('https://placebear.com/cache/150-145.jpg');
+    width:150px;
+    height:145px;
+    float:right;
+    margin-left:5px;
+    margin-bottom:5px;
+}
+    
+.top.right .c{
+    background-image: url('https://placebear.com/cache/70-146.jpg');
+    width:70px;
+    height:145px;
+    clear:right;
+    float:left;
+    margin-top:5px;
+    margin-right:5px;
+    margin-left:5px;
+}
+    
+.top.right .d{
+    background-image: url('https://placebear.com/cache/70-147.jpg');
+    width:70px;
+    height:145px;
+    float:right;
+    margin-left:5px;
+    margin-top:5px;
+}
+    
+.top.left {
+    width:400px;
+    height:310px;
+}
+    
+.bottom.left {
+    background-image: url('https://placebear.com/cache/395-205.jpg');
+    width:395px;
+    height:200px;
+}
+    
+.bottom.right .a {
+    background-image: url('https://placebear.com/cache/150-200.jpg');
+    width:150px;
+    height:200px;
+    float:right;
+    margin-left:5px;
+}
+    
+.bottom.right .b {
+    background-image: url('https://placebear.com/cache/145-201.jpg');
+    width:145px;
+    height:200px;
+    float:left;
+    margin-right:5px;
+}
+    
+.clear {
+    clear:both;
+}
