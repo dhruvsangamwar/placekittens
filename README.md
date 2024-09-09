@@ -100,7 +100,3 @@ This is a simple kitten image resizer API built with Go and the Gin framework. I
 ### License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to modify the README as needed for your project’s specifics.
